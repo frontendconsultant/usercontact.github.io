@@ -1,0 +1,27 @@
+.card {
+  background-color: #eee;
+  padding: 15px;
+  border-radius: 5px;
+  min-height: 300px;
+}
+
+.img {
+  border-radius: 50%;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.details-container {
+  flex: 2;
+}
+
+.details-container h2 {
+  color: #ccc;
+}
+
+.avatar-container {
+  flex-basis: 250px;
+}
